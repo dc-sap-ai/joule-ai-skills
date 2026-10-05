@@ -1,12 +1,7 @@
 # SAP Product Explainer
 
-> A Joule Work Desktop skill that explains any SAP product in plain language to any SAP employee.
-> Author - Dhriti Chakraborty
-
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![License](https://img.shields.io/badge/license-Apache%202.0-green)
-![Platform](https://img.shields.io/badge/platform-Joule%20Work%20Desktop-orange)
-![Tool](https://img.shields.io/badge/tool-web__search-lightgrey)
+A Joule Work Desktop skill that explains any SAP product in plain language to any SAP employee.
+Author - Dhriti Chakraborty
 
 ---
 
