@@ -1,7 +1,8 @@
+Created by - Dhriti Chakraborty
+
 # SAP Product Explainer
 
 A Joule Work Desktop skill that explains any SAP product in plain language to any SAP employee.
-Author - Dhriti Chakraborty
 
 ---
 
