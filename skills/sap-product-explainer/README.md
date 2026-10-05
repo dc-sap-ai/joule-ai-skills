@@ -1,6 +1,7 @@
 # SAP Product Explainer
 
 > A Joule Work Desktop skill that explains any SAP product in plain language to any SAP employee.
+> Author - Dhriti Chakraborty
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-Apache%202.0-green)
@@ -102,63 +103,6 @@ Delivered on user confirmation. Adds:
 🔗 Components & Integrations
 • [Key modules, connected SAP/third-party products]
 ```
-
----
-
-## Example
-
-**User:** `Explain SAP BTP to me`
-
-**Joule:**
-
-> 📦 **What it is**
-> SAP Business Technology Platform (SAP BTP) is SAP's multi-cloud platform for building, integrating, automating, and extending AI-powered business applications across SAP and non-SAP systems. It serves as the common foundation underneath SAP's entire product portfolio.
-> [View on SAP Store](https://store.sap.com/dcp/en/)
->
-> 🗂 **Where it fits in SAP's Portfolio**
-> ```
-> SAP Portfolio
-> └── Technology & Platform
->     └── SAP Business Technology Platform (SAP BTP)
->         ├── Application Development & Automation
->         ├── Integration
->         ├── Data, Analytics & Planning
->         └── Artificial Intelligence
-> ```
->
-> 🏢 **Line of Business:** Technology Platform
->
-> 👔 **CPO:** Dr. Michael Ameling — President, SAP BTP and Member of the Extended Board
->
-> *Would you like to have a detailed overview?*
-
----
-
-## File Structure
-
-```
-sap-product-explainer/
-├── SKILL.md                  # Core skill instructions (agentskills.io format)
-└── references/
-    ├── README.md             # This file
-    ├── CHANGELOG.md          # Version history
-    └── LICENSE               # Apache 2.0
-```
-
-> **Publishing to GitHub:** Move `references/README.md` → `README.md`, `references/CHANGELOG.md` → `CHANGELOG.md`, and `references/LICENSE` → `LICENSE` to the repository root before pushing.
-
----
-
-## Contributing
-
-Contributions are welcome. To improve this skill:
-
-1. Fork the repository
-2. Edit `SKILL.md` to refine trigger conditions, output format, or search queries
-3. Test against a range of SAP products (core ERP, CX, BTP, LoB apps, industry cloud)
-4. Submit a pull request with a clear description of what changed and why
-
-Please follow the [agentskills.io](https://agentskills.io) skill specification when editing `SKILL.md`.
 
 ---
 
